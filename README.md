@@ -437,42 +437,6 @@ This project demonstrates:
 
 ---
 
-# 📸 Screenshots
-
-Add screenshots of:
-
-- Login Page
-- Registration
-- Dashboard
-- Project List
-- Project Details
-- Profile
-- Team Management
-- Resource Upload
-
-Example:
-
-```
-docs/screenshots/login.png
-docs/screenshots/dashboard.png
-docs/screenshots/projects.png
-```
-
----
-
-# 🤝 Contributors
-
-- **Shweta Gaidhani** – Backend Development
-- **Team Members** – Frontend Development, Testing & Documentation
-
----
-
-# 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 # 🌟 Acknowledgements
 
 Special thanks to:
