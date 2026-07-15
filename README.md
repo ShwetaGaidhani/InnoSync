@@ -76,7 +76,7 @@ InnoSync provides a unified platform that enables students to:
 
 # ✨ Features
 
-## 🔐 User Authentication
+## User Authentication
 
 - User Registration
 - Secure Login
